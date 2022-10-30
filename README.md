@@ -1,4 +1,4 @@
-# Programing-Fundamentals-Pytho-2022n
+# Programing-Fundamentals-Pytho-2022
 Course SoftUni Fundamentals September 2022
 
 
